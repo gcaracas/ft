@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Centro de Comuinidad y Justicia</title><meta NAME="author" CONTENT="FreeTech Solutions LLC">     <meta NAME="description" CONTENT="Centro de Comunidad y Justicia Center of Community and Justice">     <meta NAME="keywords" CONTENT="aids, ccjidaho, center of community and justice, centro de comunidad y justicia, centro de justicia, clinic, boise clinic, boise, idaho, deportation idaho, deportacion idaho, dream act, dream, hiv, immigration, immigration boise, justicia boise, justicia idaho, sam byrd">
+<meta charset="utf-8">
+<link href="css/reset.css" rel="stylesheet" type="text/css" />
+<link href="css/layout.css" rel="stylesheet" type="text/css" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/Swis721_BT_400.font.js"></script>
+<script type="text/javascript" src="js/Swis721_Th_BT_400.font.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script>
+<script type="text/javascript" src="js/flashobject.js"></script><script type="text/javascript" src="js/swfobject.js"></script> <script type="text/javascript">    if (swfobject.hasFlashPlayerVersion("6.0.0")) {      var fn = function() {        var att = { data:"flash/menu_v8.swf", width:"990", height:"148" };        var par = { flashvars:"button=3" };        var id = "mymovie";        var myObject = swfobject.createSWF(att, par, id);      };      swfobject.addDomLoadEvent(fn);    }			    if (swfobject.hasFlashPlayerVersion("6.0.0")) {      var fn2 = function() {        var att2 = { data:"flash/header1_v8.swf", width:"982", height:"373" };        var par2 = { flashvars:"button=1" };        var id2 = "mymovie2";        var myObject2 = swfobject.createSWF(att2, par2, id2);      };      swfobject.addDomLoadEvent(fn2);    }	    </script>
+<!--[if lt IE 7]>
+     <script type="text/javascript" src="js/ie_png.js"></script>
+     <script type="text/javascript">
+     ie_png.fix('.png, #pic li a');
+     </script>
+     <link href="css/ie/ie6.css" rel="stylesheet" type="text/css" />
+   <![endif]-->
+<!--[if IE]>
+      <script type="text/javascript" src="js/html5.js"></script>
+   <![endif]-->
+   <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32905315-1']);
+  _gaq.push(['_setDomainName', 'comunidadyjusticia.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body id="page5">
+<div id="main">
+  <!-- header -->
+  <header>
+    <div id="menu"><!--
+      <div class="aligncenter"> <a href="http://www.adobe.com/go/EN_US-H-GET-FLASH"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" /></a> </div>-->
+    </div>	    <div id="mymovie">  <a class="logoccj" href="http://ccjidaho.org"><img src="images/logo.gif" width="350" height="57" align="right"  ></a>    <nav>      <ul>        <li class="first"><a href="index.html"><strong>home</strong></a></li>        <li><a href="index-1.html">about us</a></li>        <li class="act"><a href="index-2.html">our goals</a></li>        <li><a href="index-3.html">initiatives</a></li>        <li><a href="blog">our blog</a></li>        <li><a href="index-5.html">get involved</a></li>        <li class="last"><a href="index-6.html"><b>contact us</b></a></li>      </ul>    </nav>	</div><div id="mymovie2"></div>	<!--	
+    <script type="text/javascript">
+   var fo = new FlashObject("flash/menu_v8.swf?button=3", "mymovie", "990", "148", "7", "#000");
+   fo.addParam("quality", "high");
+   fo.addParam("wmode", "transparent");
+   fo.write("menu");
+</script>-->
+    <div id="flash"><!--
+      <div class="aligncenter"> <a href="http://www.adobe.com/go/EN_US-H-GET-FLASH"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" /></a> </div>-->
+    </div>
+    <script type="text/javascript">
+   var fo = new FlashObject("flash/header1_v8.swf", "mymovie", "982", "373", "7", "#000");
+   fo.addParam("quality", "high");
+   fo.addParam("wmode", "transparent");
+   fo.write("flash");
+</script>
+  </header>
+  <!-- content -->
+  <section id="content">
+    <div id="indent-2">
+  <!--    <div class="banners">
+        <div id="flashcontent">
+          <div class="aligncenter"> <a href="http://www.adobe.com/go/EN_US-H-GET-FLASH"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" /></a> </div>
+        </div>
+        <script type="text/javascript">
+   var fo = new FlashObject("flash/header2_v8.swf", "mymovie", "984", "172", "7", "#000");
+   fo.addParam("quality", "high");
+   fo.addParam("wmode", "transparent");
+   fo.write("flashcontent");
+</script>
+      </div>	  -->
+      <div class="line-ver">
+        <div class="wrapper">
+          <article class="col-1">		  <a class="logofb" href="https://www.facebook.com/pages/Centro-de-Comunidad-y-Justicia/191689067561758"><img src="images/facebook_icon.gif" width="50" height="51" align="right"  ></a>
+            <h2><i>Our Goals</i></h2>
+            <img src="images/5page-img1.jpg" class="fleft" alt="" />
+            <h6><span>In an effort to address the most significant issues facing Idaho's Latino communities,</span></h6>
+            <p>the Center for Community and Justice has identified Education, Immigrant Rights, and Health Education and Research. The following goals have been developed for each of these focus areas based on input from the Latinos families we serve.</p>
+            <div class="clear"></div>
+            <!-- <a href="#" class="link link-indent"><span><span>Read More</span></span></a> -->
+            <div class="clear"></div>
+            <div class="line-hor"></div>
+            <h2><em>With what we can help YOU</em></h2>
+            <h6>EDUCATIONAL EQUITY</h6>            <p>            Centro has for several years been active in promoting policy efforts to address the academic and English language acquisition needs of Latinos, and other students that have traditionally struggled to achieve academically and to succeed in Idaho’s public schools.            </p>            <p>            Since the mid-1970’s, our staff and board members have played a part in almost every educational policy decision affecting Latino and English language learner students (ELL’s) in the state.              </p>            <p>            Our accomplishments include efforts to disaggregate student data by ethnicity, legislative approval and funding for the Idaho Minority and At-Risk Scholarship.  Funding for the State Limited English Proficient (LEP) Supplemental Appropriation for programs for ELL students in Idaho; and for the “Grow Our Own Teachers Program” a program that offers scholarships for individuals interested in a English as a Second Language or Bilingual Education degree.             </p>            <p>            In addition, our members have been involved in almost every major study and task force appointed to address the needs of these students, and responsible for promoting stricter legislative oversight and accountability of state and federal programs that fund local services for ELL students.             </p>            <p>            The goals of our Educational Initiative are:            </p>            <ul class="list fright">                <li>                To reduce the disproportionate dropout/push out rate that persists in the Latino community.                </li>                <li>                To improve the academic achievement and success of Latino students.                </li>                <li>                To increase the number of Hispanic students who enter colleges, universities & other postsecondary opportunities;                </li>                <li>                To increase multicultural and multilingual educational opportunities in Idaho for all students.                </li>            </ul>            			<h6>COMMUNITY-BASED HEALTH EDUCATION & RESEARCH</h6>			<p>			The overall goal of Centro’s Community-based Health Education and Research Project is to address inequities in health care that are experienced by Latinos in Idaho.             </p>            <p>            The goals of this initiative are:            </p>            <ul class="list fright">                <li>                To promote, prepare and disseminate health research and briefing papers regarding Latino health issues;                 </li>                <li>                To address health care disparities within the Latino community;                 </li>                <li>                To advocate for equitable access to health care for Latino families in Idaho, and                 </li>                <li>                To promote cross-cultural proficiency in health care.                </li>            </ul>			<h6>IMMIGRANT RIGHTS - PROYECTO VECINO</h6>			<p>            </p>            <p>            </p>            <ul class="list fright">                <li>                </li>                <li>                </li>                <li>                </li>                <li>                </li>            </ul>
+
+           <!-- <div class="wrapper">
+              <ul class="list fright">
+                <li><a href="#">Educational Equity</a></li>
+                <li><a href="#">Community-based Health Education and Research</a></li>
+               
+              </ul>
+              <ul class="list">
+                <li><a href="#">Immigrant Rights</a></li>
+                <li><a href="#">Social Justice</a></li>
+               
+              </ul>
+            </div>
+-->
+          </article>
+		  <!--
+          <article class="col-2">
+            <h2><i>Recent Projects</i></h2>
+            <ul class="list-2">
+              <li> <img src="images/5page-img2.jpg" alt="" /> <strong><a href="#">Proin dictum elementum</a></strong>
+                <p>Euismod conquat am dolor sitam consectetuer adipisc inglitellentque sed doliquam cogue ferntum.</p>
+                <b><a href="#">Read More</a></b> </li>
+              <li> <img src="images/5page-img3.jpg" alt="" /> <strong><a href="#">Accusantium dolemque</a></strong>
+                <p>Dolor m consectetuer adipi scinglitellentesque sed dolorlam cogue fermentum nislauris accumsan.</p>
+                <b><a href="#">Read More</a></b> </li>
+              <li> <img src="images/5page-img4.jpg" alt="" /> <strong><a href="#">Fusce suscipit varius</a></strong>
+                <p>Fermem nislauris accum saamedin lacus ut enim aing aliquetulla venenatis npede miliquet.</p>
+                <b><a href="#">Read More</a></b> </li>
+            </ul>
+            <a href="#" class="link"><span><span>view  More</span></span></a>
+            <div class="clear"></div>
+          </article>
+		  -->
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- footer -->
+  <footer>
+    <div class="inner">
+      <div class="wrapper"><!--
+        <ul>
+          <li><a href="#"><img src="images/icon-1.gif" alt="" /></a></li>
+          <li><a href="#"><img src="images/icon-2.gif" alt="" /></a></li>
+          <li><a href="#"><img src="images/icon-3.gif" alt="" /></a></li>
+        </ul>-->
+        <p><a href="http://free-tech-solutions.com">Powered by FreeTech Solutions &copy; 2012 </a><br>
+          <!-- {%FOOTER_LINK} -->
+        </p>
+      </div>
+    </div>
+  </footer>
+</div>
+<script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>
