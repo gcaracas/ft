@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">   
+    <script src="js/jquery-1.6.3.min.js" type="text/javascript"></script>
+    <script src="js/cufon-yui.js" type="text/javascript"></script>
+    <script src="js/cufon-replace.js" type="text/javascript"></script>
+	<script src="js/Kozuka_Gothic_Pro_OpenType_300.font.js" type="text/javascript"></script>
+    <script src="js/Kozuka_Gothic_Pro_OpenType_500.font.js" type="text/javascript"></script> 
+    <script src="js/FF-cash.js" type="text/javascript"></script>    
+    <script language="JavaScript">
+	function formCheck(formobj){
+	// Enter name of mandatory fields
+	var fieldRequired = Array("Full Name", "E-Mail", "Phone Number");
+	// Enter field description to appear in the dialog box
+	var fieldDescription = Array("Full Name", "E-Mail", "Phone Number");
+	// dialog message
+	var alertMsg = "Please complete the following fields:\n";
+	
+	var l_Msg = alertMsg.length;
+	
+	for (var i = 0; i < fieldRequired.length; i++){
+		var obj = formobj.elements[fieldRequired[i]];
+		if (obj){
+			switch(obj.type){
+			case "select-one":
+				if (obj.selectedIndex == -1 || obj.options[obj.selectedIndex].text == ""){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			case "select-multiple":
+				if (obj.selectedIndex == -1){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			case "text":
+			case "textarea":
+				if (obj.value == "" || obj.value == null){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			default:
+			}
+			if (obj.type == undefined){
+				var blnchecked = false;
+				for (var j = 0; j < obj.length; j++){
+					if (obj[j].checked){
+						blnchecked = true;
+					}
+				}
+				if (!blnchecked){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+			}
+		}
+	}
+
+	if (alertMsg.length == l_Msg){
+		return true;
+	}else{
+		alert(alertMsg);
+		return false;
+	}
+}
+</script>		
+    
+	<!--[if lt IE 8]>
+    <div style=' clear: both; text-align:center; position: relative;'>
+        <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+        	<img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+        </a>
+    </div>
+	<![endif]-->
+    <!--[if lt IE 9]>
+   		<script type="text/javascript" src="js/html5.js"></script>
+        <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+	<![endif]-->
+</head>
+<body id="page6">
+	<!--==============================header=================================-->
+    <header>
+    	<div class="menu-row">
+        	<div class="main">
+            	<nav class="wrapper">
+                    <ul class="menu">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About us</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li><a href="pricelist.html">Pricelist</a></li>
+                        <li><a class="active" href="contacts.html">Contacts</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    	<div class="row-bot">
+            <div class="row-bot-bg">
+                <div class="main">
+                    <div class="wrapper">
+                        <h1><a href="index.html">Parker Portraits</a></h1>
+                        <h2>Contact Us</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <!--==============================content================================-->
+    <section id="content"><div class="ic"><div class="inner_copy">All <a href="http://www.magentothemesworld.com" title="Best Magento Templates">premium Magento themes</a> at magentothemesworld.com!</div></div>
+        <div class="main">
+            <div class="container_12">
+                <div class="wrapper">
+                	<article class="grid_4">
+                    	<h3>Our Location</h3>
+                        <div class="img-indent-bot">
+                            <figure class="img-border2">
+                               <iframe width="230" height="173" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=2620+West+Bannock+Street,+Boise+City,+ID&amp;sll=43.623912,-116.223667&amp;hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=2620+W+Bannock+St,+Boise,+Ada,+Idaho+83702&amp;t=m&amp;ll=43.623899,-116.223679&amp;spn=0.005374,0.009828&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?q=2620+West+Bannock+Street,+Boise+City,+ID&amp;sll=43.623912,-116.223667&amp;hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=2620+W+Bannock+St,+Boise,+Ada,+Idaho+83702&amp;t=m&amp;ll=43.623899,-116.223679&amp;spn=0.005374,0.009828&amp;z=15&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+                            </figure>
+                            <div class="clear"></div>
+                        </div>
+                        <dl>
+                            <dt class="p1">U2620 W. Bannock St. Boise, ID. 83702</dt>
+                            <dd><span>Telephone:</span>  +1 208 345 0807</dd>
+                            <dd><span>Email:</span></a></dd>
+                            <script type="text/javascript">
+/*<![CDATA[*/
+
+/***********************************************
+* Encrypt Email script- Please keep notice intact
+* Tool URL: http://www.dynamicdrive.com/emailriddler/
+* **********************************************/
+<!-- Encrypted version of: parkerportraits [at] ***.*** //-->
+
+var emailriddlerarray=[112,97,114,107,101,114,112,111,114,116,114,97,105,116,115,64,109,115,110,46,99,111,109]
+var encryptedemail_id31='' //variable to contain encrypted email 
+for (var i=0; i<emailriddlerarray.length; i++)
+ encryptedemail_id31+=String.fromCharCode(emailriddlerarray[i])
+
+document.write('<a href="mailto:'+encryptedemail_id31+'">'+encryptedemail_id31+'</a>')
+
+/*]]>*/
+                    </script>
+                            
+                        </dl>
+                    </article>
+                    <article class="grid_8">
+                    	<h3>Contact Form</h3>
+                    	<!--
+                        <form id="contact-form" method="post" enctype="multipart/form-data">                    
+                            <fieldset>
+                                  <label><span class="text-form">Name:</span><input type="text"></label>
+                                  <label><span class="text-form">Email:</span><input type="text"></label>
+                                  <label><span class="text-form">Phone number:</span><input type="text"></label>
+                                  <label><span class="text-form">Best time to Contact you:</span><input type="text"></label>
+                                  <label><span class="text-form">When do you want to get started:</span><input type="text"></label>
+                                  <label><span class="text-form">How did you hear about us:</span><input type="text"></label>                              
+                                  <div class="wrapper">
+                                    <div class="text-form">Plese provide a short description about your project:</div>
+                                    <div class="extra-wrap">
+                                        <textarea></textarea>
+                                        <div class="clear"></div>
+                                        <div class="buttons">
+                                            <a class="button" onClick="document.getElementById('contact-form').reset()"><span>clear</span></a>
+                                            <a class="button" onClick="document.getElementById('contact-form').submit()"><span>send</span></a>
+                                        </div> 
+                                    </div>
+                                  </div>                            
+                            </fieldset>						
+                        </form>
+                        -->
+                        
+                        <form id="contact-form" method="post" action="http://ibizlocal.net/leads/dispatch_lead.php" onSubmit="return formCheck(this);">
+							<input type="Hidden" name="recipient" value="robin@ibizwebsite.com, sabrina@ibizwebsite.com, parkerportraits@msn.com" />
+							<input type="Hidden" name="subject" value="Parker Portraits 208-345-0807" />
+							<input type="Hidden" name="email" value="forms@ibiznow.com" />
+							<input type="hidden" name="redirect" value="http://parkerportraitsinc.com/thx.html" />	
+		
+							<fieldset>
+                                  <label><span class="text-form">Your Name:</span><input name="Full Name" type="Text" class="input_txt" id="Full Name"></label>
+                                  <label><span class="text-form">Your Email:</span><input name="E-Mail" type="Text" class="input_txt" id="E-Mail"></label>  
+                                  <label><span class="text-form">Your Phone number:</span><input name="Phone Number" type="Text" class="input_txt" id="Phone Number"></label> 
+                                  <label><span class="text-form">Best Time to Contact You:</span>
+                                  	<select name="Best Time To Contact" size="1" id="Best Time To Contact">
+											<option value="Select One">Select One</option>
+											<option value="Morning">Morning</option>
+											<option value="Afternoon">Afternoon</option>
+											<option value="Evening">Evening</option>
+        							</select>		
+                                  </label> 
+                                  <label><span class="text-form">When do you want to get started:</span>
+                                  	<select name="How did you hear about us" size="1" id="How did you hear about us">
+										<option value="Select One">Select One</option>
+										<option value="Less Than a Month">Less Than a Month</option>
+										<option value="Just Taking Estimates">Just Taking Estimates</option>
+										<option value="Immediately">Immediately</option>
+										<option value="More Than a Month">More Than a Month</option>
+        							</select>
+                                  </label> 
+                                  <label><span class="text-form">How did you hear about us:</span><input name="How did you hear about us" type="Text" class="input_txt" id="How did you hear about us"></label> 
+                                                               
+                                  <div class="wrapper">
+                                    <div class="text-form">Please provide a short description about your project:</div>
+                                    <div class="extra-wrap">
+                                        <textarea name="Description of your project." rows="2" id="Description of your project."></textarea>
+                                        <div class="clear"></div>
+                                        <div class="buttons">
+                                            <a class="button" onClick="document.getElementById('contact-form').reset()"><span>clear</span></a>
+                                            <a class="button" onClick="document.getElementById('contact-form').submit()"><span>send</span></a>
+                                        </div> 
+                                    </div>
+                                  </div>                            
+                            </fieldset>	
+							
+							<!-- 
+							<table width="80%" align="center" cellpadding="5" border="2">
+								<tr>
+									<td width="50%" valign="top">
+										<P align=right class="style1">Name:		</p>
+									</td>
+									<td width="50%" valign="top">
+										<input name="Full Name" type="Text" class="input_txt" id="Full Name" style="width : 90%" value="" maxlength = "100" />		
+									</td>
+								</tr>
+								<tr>
+									<td width="50%" valign="top">
+										<P align=right class="style1">E-mail:		</p>
+									</td>
+									<td width="50%" valign="top">
+										<input name="E-Mail" type="Text" class="input_txt" id="E-Mail" style="width : 90%" value="" maxlength = "100" />		
+									</td>
+								</tr>
+								<tr>
+									<td width="50%" valign="top">
+										<P align=right class="style1">Phone Number:		</p>
+									</td>
+									<td width="50%" valign="top">
+										<input name="Phone Number" type="Text" class="input_txt" id="Phone Number" style="width : 90%" value="" maxlength = "100" />		
+									</td>
+								</tr>
+								<tr>
+									<td width="50%" valign="top">
+										<P align=right class="style1">Best Time to Contact You:		</p>
+									</td>
+									<td width="50%" valign="top">
+										<select name="Best Time To Contact" size="1" id="Best Time To Contact">
+											<option value="Select One">Select One</option>
+											<option value="Morning">Morning</option>
+											<option value="Afternoon">Afternoon</option>
+											<option value="Evening">Evening</option>
+        								</select>		
+        							</td>
+								</tr>
+								<tr>
+									<td width="50%" valign="top">
+										<P align=right class="style1">When do you want to get started:		</p>
+									</td>
+									<td width="50%" valign="top">
+										<select name="How did you hear about us" size="1" id="How did you hear about us">
+											<option value="Select One">Select One</option>
+											<option value="Less Than a Month">Less Than a Month</option>
+											<option value="Just Taking Estimates">Just Taking Estimates</option>
+											<option value="Immediately">Immediately</option>
+											<option value="More Than a Month">More Than a Month</option>
+        								</select>		
+        							</td>
+								</tr>
+								<tr>
+									<td width="50%" valign="top">
+										<P align=right class="style1">How did you hear about us?		</p>
+									</td>
+									<td width="50%" valign="top">
+										<input name="How did you hear about us" type="Text" class="input_txt" id="How did you hear about us" style="width : 90%" value="" maxlength = "100" />		
+									</td>
+								</tr>
+								<tr>
+									<td width="50%" valign="top">
+										<P align=right class="style1">Please provide a short description about your project:		</p>
+									</td>
+									<td width="50%" valign="top">
+										<textarea name="Description of your project." rows="2" id="Description of your project." style="width : 100%"></textarea>		
+									</td>
+								</tr>
+								<tr>
+	  								<td align="right" valign="top"><input name="Reset" type="Reset" class="formbutton" value="Reset" />
+	  								</td>
+	  								<td valign="top"><input name="Submit" type="Submit" class="formbutton" value="Submit" />
+	  								</td>
+	  							</tr>
+							</table>	
+							-->
+						</form>
+                        
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+	<!--==============================footer=================================-->
+    <footer>
+        <div class="main">
+        	<div class="aligncenter">
+            	<p class="p0">Powered by <a rel="nofollow" href="http://www.free-tech-solutions.com/" target="_blank">FreeTech Solutions</a>&copy; 2013.
+            	All rights reserved. 
+            </div>
+        </div>
+    </footer>
+	<script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>
