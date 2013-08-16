@@ -1,157 +1,0 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Centro de Comuinidad y Justicia</title><meta NAME="author" CONTENT="FreeTech Solutions LLC">     <meta NAME="description" CONTENT="Centro de Comunidad y Justicia Center of Community and Justice">     <meta NAME="keywords" CONTENT="aids, ccjidaho, center of community and justice, centro de comunidad y justicia, centro de justicia, clinic, boise clinic, boise, idaho, deportation idaho, deportacion idaho, dream act, dream, hiv, immigration, immigration boise, justicia boise, justicia idaho, sam byrd">
-<meta charset="utf-8">
-<link href="css/reset.css" rel="stylesheet" type="text/css" />
-<link href="css/layout.css" rel="stylesheet" type="text/css" />
-<link href="css/style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/Swis721_BT_400.font.js"></script>
-<script type="text/javascript" src="js/Swis721_Th_BT_400.font.js"></script>
-<script type="text/javascript" src="js/cufon-replace.js"></script>
-<script type="text/javascript" src="js/flashobject.js"></script><script type="text/javascript" src="js/swfobject.js"></script> <script type="text/javascript">    if (swfobject.hasFlashPlayerVersion("6.0.0")) {      var fn = function() {        var att = { data:"flash/menu_v8.swf", width:"990", height:"148" };        var par = { flashvars:"button=7" };        var id = "mymovie";        var myObject = swfobject.createSWF(att, par, id);      };      swfobject.addDomLoadEvent(fn);    }			    if (swfobject.hasFlashPlayerVersion("6.0.0")) {      var fn2 = function() {        var att2 = { data:"flash/header1_v8.swf", width:"982", height:"373" };        var par2 = { flashvars:"button=1" };        var id2 = "mymovie2";        var myObject2 = swfobject.createSWF(att2, par2, id2);      };      swfobject.addDomLoadEvent(fn2);    }	    </script>
-<!--[if lt IE 7]>
-     <script type="text/javascript" src="js/ie_png.js"></script>
-     <script type="text/javascript">
-     ie_png.fix('.png, #pic li a');
-     </script>
-     <link href="css/ie/ie6.css" rel="stylesheet" type="text/css" />
-   <![endif]-->
-<!--[if IE]>
-      <script type="text/javascript" src="js/html5.js"></script>
-   <![endif]-->
-   <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32905315-1']);
-  _gaq.push(['_setDomainName', 'comunidadyjusticia.org']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-</head>
-<body id="page7">
-<div id="main">
-  <!-- header -->
-  <header>
-    <div id="menu"><!--
-      <div class="aligncenter"> <a href="http://www.adobe.com/go/EN_US-H-GET-FLASH"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" /></a> </div>-->
-    </div>	    <div id="mymovie">	<a class="logoccj" href="http://ccjidaho.org"><img src="images/logo.gif" width="350" height="57" align="right"  ></a>      <nav>        <ul>          <li class="first"><a href="index.html"><strong>home</strong></a></li>          <li><a href="index-1.html">about us</a></li>          <li><a href="index-2.html">our goals</a></li>          <li><a href="index-3.html">initiatives</a></li>          <li><a href="blog">our blog</a></li>          <li><a href="index-5.html">get involved</a></li>          <li class="last class="act""><a href="index-6.html"><b>contact us</b></a></li>        </ul>      </nav>	</div><div id="mymovie2"></div>	<!--	
-    <script type="text/javascript">
-   var fo = new FlashObject("flash/menu_v8.swf?button=7", "mymovie", "990", "148", "7", "#000");
-   fo.addParam("quality", "high");
-   fo.addParam("wmode", "transparent");
-   fo.write("menu");
-</script>-->
-    <div id="flash"><!--
-      <div class="aligncenter"> <a href="http://www.adobe.com/go/EN_US-H-GET-FLASH"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" /></a> </div>-->
-    </div>
-    <script type="text/javascript">
-   var fo = new FlashObject("flash/header1_v8.swf", "mymovie", "982", "373", "7", "#000");
-   fo.addParam("quality", "high");
-   fo.addParam("wmode", "transparent");
-   fo.write("flash");
-</script>
-  </header>
-  <!-- content -->
-  <section id="content">
-    <div id="indent-3">
-      <div class="line-ver">
-        <div class="wrapper">
-          <article class="col-1">		  <a class="logofb" href="https://www.facebook.com/pages/Centro-de-Comunidad-y-Justicia/191689067561758"><img src="images/facebook_icon.gif" width="50" height="51" align="right"  ></a>
-            <h2><i>Postal Address</i></h2>
-            <img src="images/7page-img1.jpg" class="fleft" alt="" />
-            <h6><span>Centro de Comunidad y Justicia.<br>
-              4696 W. Overland Rd., Ste. 228</span>			  Boise, Idaho 83705 USA</h6>
-            <p> 
-              <small>+1 208 378 1368</small>Telephone: <br>
-              <small>+1 208 336 5327</small>FAX: <br>
-              E-mail: <a>sbyrd@comunidadyjusticia.org</a> </p>
-            <!--<a href="#" class="link link-indent"><span><span>Read More</span></span></a>-->
-            <div class="clear"></div>
-            <div class="line-hor"></div>
-            <div class="wrapper">
-              <div class="block-1">			  			  <iframe width="325" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?hl=en&amp;q=4696+W.+Overland+Rd.,+Ste.+228+Boise,+Idaho+83705+USA&amp;ie=UTF8&amp;hq=&amp;hnear=4696+W+Overland+Rd,+Boise,+Idaho+83705&amp;gl=us&amp;t=m&amp;ll=43.590152,-116.239729&amp;spn=0.021758,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?hl=en&amp;q=4696+W.+Overland+Rd.,+Ste.+228+Boise,+Idaho+83705+USA&amp;ie=UTF8&amp;hq=&amp;hnear=4696+W+Overland+Rd,+Boise,+Idaho+83705&amp;gl=us&amp;t=m&amp;ll=43.590152,-116.239729&amp;spn=0.021758,0.036478&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>						  <!--
-                <h2>Contact Form</h2>
-                <form action="" id="contact-form">
-                  <div class="wrapper">
-                    <label>
-                      <input type="text"  value="Enter Name:" onBlur="if(this.value=='') this.value='Enter Name:'" onFocus="if(this.value =='Enter Name:' ) this.value=''" />
-                    </label>
-                    <label>
-                      <input type="email"  value="Enter Email:" onBlur="if(this.value=='') this.value='Enter Email:'" onFocus="if(this.value =='Enter Email:' ) this.value=''" />
-                    </label>
-                    <label>
-                      <input type="text"  value="Enter Fax:" onBlur="if(this.value=='') this.value='Enter Fax:'" onFocus="if(this.value =='Enter Fax:' ) this.value=''" />
-                    </label>
-                    <strong>
-                    <textarea cols="1" rows="1" onBlur="if(this.value=='') this.value='Enter Message:'" onFocus="if(this.value =='Enter Message:' ) this.value=''" >Enter Message:</textarea>
-                    </strong>
-                    <div class="clear"></div>
-                    <a href="#" class="link" onClick="document.getElementById('contact-form').submit()"><span><span>Submit</span></span></a> <a href="#" class="link" onClick="document.getElementById('contact-form').reset()"><span><span>Reset</span></span></a> </div>
-                </form>-->
-              </div><!--
-              <div class="block-2">
-                <h2>Locations</h2>
-                <dl class="list-4">
-                  <dt><a href="#">California</a></dt>
-                  <dd> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vesum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. </dd>
-                  <dt><a href="#">Massachusetts</a></dt>
-                  <dd> Nemo enim ipsam voluptatem quia voluptas asp aut odit aut fugit, sed quia consequ untur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean nonummy hendrerit. </dd>
-                  <dt><a href="#">Washington</a></dt>
-                  <dd> Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes. </dd>
-                </dl>
-              </div>-->
-            </div>
-          </article>
-          <article class="col-2">
-            <h2>Contact Information</h2>			<h6>Sam Byrd </h6>			<p>Director</p>			<p> E-mail: <a>sbyrd@comunidadyjusticia.org</a> </p>            <div class="line-hor"></div>			<h6>Alfredo Hernandez </h6>			<p>Director of HIV Services</p>			<p> E-mail: <a>ahernandez@comunidadyjusticia.org</a> </p>            <!--
-            <h6>Estroin dictum elemtum velitusce euismod conse quat antem ipsum dolor sitame consectetuer adipiscinglitellentesque</h6>
-            <p>Anteonec sagittis euismod purusestibulum iaculis lacinia estroin dictum elementum velitusce euismod consequat anteorem ipsum dolor sit amet, consect etuer adipiscing elit. Pellentesque sed dolor.</p>
-            <p>Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam.Sed in lacus ut enim adipiscing aliquet Nulla venenatis. In pede mi, aliquet sit amet.</p>
-            <a href="#" class="link link-indent"><span><span>Read More</span></span></a>
-            <div class="clear"></div>-->
-            <div class="line-hor"></div><!--
-            <h2><em>Useful Links</em></h2>
-            <ul class="list">
-              <li><a href="#">Lorem ipsum dolor sit amet consectetuer</a></li>
-              <li><a href="#">Praesent vestibulum molestie lacus dis</a></li>
-              <li><a href="#">Aenean nonummy hendrerit mauris</a></li>
-              <li><a href="#">Phasellus porta fusce suscipit varius micum</a></li>
-              <li><a href="#">Sociis natoque penatibus et magnis</a></li>
-              <li><a href="#">Parturient montes nascetur ridiculus mus</a></li>
-              <li><a href="#">Nulla dui fusce feugiat malesuada odio</a></li>
-              <li><a href="#">Morbi nunc odio gravida atcursus nec luctus</a></li>
-              <li><a href="#">Maecenas tristique orci acsem duis</a></li>
-            </ul>-->
-          </article>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- footer -->
-  <footer>
-    <div class="inner">
-      <div class="wrapper"><!--
-        <ul>
-          <li><a href="#"><img src="images/icon-1.gif" alt="" /></a></li>
-          <li><a href="#"><img src="images/icon-2.gif" alt="" /></a></li>
-          <li><a href="#"><img src="images/icon-3.gif" alt="" /></a></li>
-        </ul>-->
-        <p><a href="http://free-tech-solutions.com">Powered by FreeTech Solutions &copy; 2012 </a><br>
-          <!-- {%FOOTER_LINK} -->
-        </p>
-      </div>
-    </div>
-  </footer>
-</div>
-<script type="text/javascript"> Cufon.now(); </script>
-</body>
-</html>
