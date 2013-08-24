@@ -1,0 +1,134 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Our Wedding</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <meta name="description" content="Your description">
+    <meta name="keywords" content="Your keywords">
+    <meta name="author" content="Your name">
+ 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+	<script type="text/javascript" src="js/include_script.js"></script>
+  	<!--[if lt IE 9]>
+	   	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	    <link href="css/ie.css" rel="stylesheet" type="text/css">
+    <![endif]-->
+</head>
+<body>
+<!--content wrapper-->
+	<div id="wrapper">
+		<section>
+			<div class="dynamicContent">
+                <div class="row">  
+                    <div class="span4 bgSpan1">
+                        <div class="box">
+                            <h2>Available Services</h2>
+                            <ul class="list1">
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">Vestibulum iaculis lacinia est setre port</a></li>
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">Proin dictum elementum velit</a></li>
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">Fusce euismod consequat ante seren</a></li>
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">Lorem ipsum dolor sit amet consectetuer</a></li>
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">adipiscing elit ellentesque</a></li>
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">sed dolor liquam congue fermentum nisl</a></li>
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">Mauris accumsan nulla vel diam</a></li>
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">Sed in lacus ut enim adipiscing aliquet</a></li>
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">Nulla venenatisn pede mi</a></li>
+                                <li><a href="index-7.html"><img src="img/list_arrow.png" alt="">aliquet sit amet euismod in auctor ut</a></li>
+                            </ul>
+                            <a href="index-6.html" class="btn btn-primary margBot1">learn more</a>
+                        </div>
+                    </div>
+                    <div class="span8 bgSpan3">
+                        <h2>Services Overview</h2>
+                        <div id="carousel">
+                            <ul>
+                                <li>
+                         			<div class="thumb-pad3">
+                    				    <div class="thumbnail">
+                                            <img src="img/page2_pic1.jpg" alt="">
+                                            <div class="caption">
+                                                <a href="index-6.html" class="btn btn-info">avertas derotase rndala  lroem por ysten amet lorep</a>
+                                                <p>miaseay mertaeles neoryks astreas verode fase laisuas sere ibertelero ferosetaserto severode fert.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                         			<div class="thumb-pad3">
+                    				    <div class="thumbnail">
+                                            <img src="img/page2_pic2.jpg" alt="">
+                                            <div class="caption">
+                                                <a href="index-6.html" class="btn btn-info">erotase rndala  lroem por ysten amet lorep lorem ster</a>
+                                                <p>miaseay mertaeles neoryks astreas verode fase laisuas sere ibertelero ferosetaserto severode fert.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                         			<div class="thumb-pad3">
+                    				    <div class="thumbnail">
+                                            <img src="img/page2_pic1.jpg" alt="">
+                                            <div class="caption">
+                                                <a href="index-6.html" class="btn btn-info">avertas derotase rndala  lroem por ysten amet lorep</a>
+                                                <p>miaseay mertaeles neoryks astreas verode fase laisuas sere ibertelero ferosetaserto severode fert.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                         			<div class="thumb-pad3">
+                    				    <div class="thumbnail">
+                                            <img src="img/page2_pic2.jpg" alt="">
+                                            <div class="caption">
+                                                <a href="index-6.html" class="btn btn-info">erotase rndala  lroem por ysten amet lorep lorem ster</a>
+                                                <p>miaseay mertaeles neoryks astreas verode fase laisuas sere ibertelero ferosetaserto severode fert.</p>
+                                            </div>22
+                                        </div>33
+                                    </div>44
+                                </li>55
+                            </ul>66
+                        </div>
+                    </div>
+                </div>
+            </div>
+		</section>
+	</div>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/jcarousellite.js"></script>
+    <script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+    <script>    
+        $("#carousel").jCarouselLite({
+            btnNext:'.next',
+            btnPrev:'.prev',
+            easing: 'easeOutSine',
+            speed: 500,
+            visible:2,
+            mouseWheel:true,
+            circular:false
+        });
+    </script>
+    <script>
+        $('.next .img_act').css({opacity:0});
+        $('.next').hover(function(){
+            $(this).find('.img_act').stop(true).animate({opacity:1},350, "easeOutSine");		 
+                }, function(){
+            $(this).find('.img_act').stop(true).animate({opacity:0},350, "easeOutSine");						 
+        })
+        $('.prev .img_act').css({opacity:0});
+        $('.prev').hover(function(){
+            $(this).find('.img_act').stop(true).animate({opacity:1},350, "easeOutSine");		 
+                }, function(){
+            $(this).find('.img_act').stop(true).animate({opacity:0},350, "easeOutSine");						 
+        })
+        $('#carousel ul li a .img_act').css({opacity:0});
+        $('#carousel ul li a').hover(function(){
+            $(this).find('.img_act').stop(true).animate({opacity:1},350, "easeOutSine");		 
+                }, function(){
+            $(this).find('.img_act').stop(true).animate({opacity:0},350, "easeOutSine");						 
+        })
+    </script>
+</body>
+</html>

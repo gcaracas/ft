@@ -1,139 +1,0 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Centro de Comuinidad y Justicia</title><meta NAME="author" CONTENT="FreeTech Solutions LLC">     <meta NAME="description" CONTENT="Centro de Comunidad y Justicia Center of Community and Justice">     <meta NAME="keywords" CONTENT="aids, ccjidaho, center of community and justice, centro de comunidad y justicia, centro de justicia, clinic, boise clinic, boise, idaho, deportation idaho, deportacion idaho, dream act, dream, hiv, immigration, immigration boise, justicia boise, justicia idaho, sam byrd">
-<meta charset="utf-8">
-<link href="css/reset.css" rel="stylesheet" type="text/css" />
-<link href="css/layout.css" rel="stylesheet" type="text/css" />
-<link href="css/style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/Swis721_BT_400.font.js"></script>
-<script type="text/javascript" src="js/Swis721_Th_BT_400.font.js"></script>
-<script type="text/javascript" src="js/cufon-replace.js"></script>
-<script type="text/javascript" src="js/flashobject.js"></script><script type="text/javascript" src="js/swfobject.js"></script> <script type="text/javascript">    if (swfobject.hasFlashPlayerVersion("6.0.0")) {      var fn = function() {        var att = { data:"flash/menu_v8.swf", width:"990", height:"148" };        var par = { flashvars:"button=2" };        var id = "mymovie";        var myObject = swfobject.createSWF(att, par, id);      };      swfobject.addDomLoadEvent(fn);    }			    if (swfobject.hasFlashPlayerVersion("6.0.0")) {      var fn2 = function() {        var att2 = { data:"flash/header1_v8.swf", width:"982", height:"373" };        var par2 = { flashvars:"button=1" };        var id2 = "mymovie2";        var myObject2 = swfobject.createSWF(att2, par2, id2);      };      swfobject.addDomLoadEvent(fn2);    }	    </script>
-<!--[if lt IE 7]>
-     <script type="text/javascript" src="js/ie_png.js"></script>
-     <script type="text/javascript">
-     ie_png.fix('.png, #pic li a');
-     </script>
-     <link href="css/ie/ie6.css" rel="stylesheet" type="text/css" />
-   <![endif]-->
-<!--[if IE]>
-      <script type="text/javascript" src="js/html5.js"></script>
-   <![endif]-->
-   <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32905315-1']);
-  _gaq.push(['_setDomainName', 'comunidadyjusticia.org']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-</head>
-<body id="page2">
-<div id="main">
-  <!-- header -->
-  <header>
-    <div id="menu"><!--
-      <div class="aligncenter"> <a href="http://www.adobe.com/go/EN_US-H-GET-FLASH"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" /></a> </div>-->
-    </div>	    <div id="mymovie"><a class="logoccj" href="http://ccjidaho.org"><img src="images/logo.gif" width="350" height="57" align="right"  ></a>     <nav>      <ul>        <li class="first"><a href="index.html"><strong>home</strong></a></li>        <li class="act"><a href="index-1.html">about us</a></li>        <li><a href="index-2.html">our goals</a></li>        <li><a href="index-3.html">initiatives</a></li>        <li><a href="blog">our blog</a></li>        <li><a href="index-5.html">get involved</a></li>        <li class="last"><a href="index-6.html"><b>contact us</b></a></li>      </ul>    </nav>	</div>	<div id="mymovie2"></div>		<!--
-    <script type="text/javascript">
-   var fo = new FlashObject("flash/menu_v8.swf?button=2", "mymovie", "990", "148", "7", "#000");
-   fo.addParam("quality", "high");
-   fo.addParam("wmode", "transparent");
-   fo.write("menu");
-</script>
-    <div id="flash">
-      <div class="aligncenter"> <a href="http://www.adobe.com/go/EN_US-H-GET-FLASH"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" /></a> </div>
-    </div>-->
-    <script type="text/javascript">
-   var fo = new FlashObject("flash/header1_v8.swf", "mymovie", "982", "373", "7", "#000");
-   fo.addParam("quality", "high");
-   fo.addParam("wmode", "transparent");
-   fo.write("flash");
-</script>
-  </header>  <!--	<a class="logodream1" href="http://comunidadyjusticia.org/blog/?cat=3"><img src="images/dacaquestions.png" onmouseover="this.src='images/dacaquestionso.png'" onmouseout="this.src='images/dacaquestions.png'" alt="" width="220" height="100" align="center"  /></a>	<a class="logodream2" href="http://comunidadyjusticia.org/dacainfo.html"><img src="images/dacainfo.png" onmouseover="this.src='images/dacainfoo.png'" onmouseout="this.src='images/dacainfo.png'" alt="" width="220" height="100" align="center"  /></a>	<a class="logodream3" href="http://comunidadyjusticia.org/dacaservices.html"><img src="images/dacaservices.png" onmouseover="this.src='images/dacaserviceso.png'" onmouseout="this.src='images/dacaservices.png'" alt="" width="220" height="100" align="center"  /></a>	-->
-  <!-- content -->
-  <section id="content">
-    <div id="indent-1">
-      <div class="line-ver">
-        <div class="wrapper">
-          <article class="col-1">		  <a class="logofb" href="https://www.facebook.com/pages/Centro-de-Comunidad-y-Justicia/191689067561758"><img src="images/facebook_icon.gif" width="50" height="51" align="right"  ></a>
-            <h2>Who We Are</h2>
-            <h6>Organizational History & Purpose</h6>
-            <p>The Center for Community and Justice (Formerly the Council on Hispanic Education) is a non-profit organization founded in September 1996.  The mission of the Centro de Comunidad y Justicia is to organize community-based efforts to improve the education, economic and social status of Latinos in Idaho . The primary focus of our work is targeted towards local Idaho communities with high concentrations of low to moderate income Latino families in need of health, education, housing, employment and other types of social services.</p>
-			<p>Centro de Comunidad y Justicia is a private non-profit corporation organized under and pursuant to the Idaho Nonprofit Corporation Act, Chapter 3, Title 30, Idaho Code.  The organization is exempt under section 501 (c) (3) of the Internal Revenue Code.</p>
-			
-            <!--<a href="#" class="link link-indent"><span><span>Read More</span></span></a>-->
-            <div class="clear"></div>
-            <div class="line-hor"></div>
-            <div class="wrapper">
-              <div class="block-1">
-                <h2><strong>Our Staff</strong></h2>
-                <img src="images/staff.png" class="pic-indent" alt="" />
-				<hr>
-                <h6>Sam Byrd</h6>
-                <p>Director. Mr. Sam Byrd has more than 25 years of experience in working with a variety of public and private sector organizations. He speaks English and Spanish fluently, is a dynamic public speaker, adept at strategic planning and an expert in diversity issues.</p>
-				<img src="images/sam.png" class="pic-indent" alt="" />
-				<p>As a community facilitator, he has been a leader in various cultural and human rights groups, including the Task Force on Hispanic Education, the Idaho Committee on Indian Education, the Idaho Inclusiveness Coalition, the Idaho Human Rights Education Center, and the Council on Hispanic Education. Mr. Byrd currently serves on the University of Idaho's Diversity and Human Rights Committee, and the Boise State University  Selland College Advisory Committee, the YMCA board of Directors, and the Albertson College of Idaho board of directors.</p>
-				<p>Sam has been the recipient of a number of awards including the Larry G. Selland Humanitarian Award by the Boise State University Women's Center, the national Howard Swearer Humanitarian Award by the Campus Compact, the University of Idaho President's Medallion and the Distinguished Leadership in Human Rights award by Hewlett-Packard.</p>
-				<br/><h6>Marti Stewart</h6>                <p>Cuidate Coordinator. Marti Stewart is from Boise, Idaho and spent the first eighteen years of her life in this area.The subsequent seventeen years were spent in Arizona, Washington, Oregon, California and Jalisco, Mexico.In 2000, Marti moved to Guadalajara, Mexico to study at El Tecnologico de Monterrey for one year. She then completed a Bachelor of Arts degree in Spanish at the University of Oregon in 2001.</p>				<img src="images/marti.jpg" class="pic-indent" alt="" />				<p>Upon graduation, she returned to Guadalajara for another two and a half years to work as a teacher in George Washington Elementary and The American School of Guadalajara. She also offered private English instruction for local students and businesses in Guadalajara.Marti has worked as an after school coordinator for a tutoring program in addition to being a medical and legal interpreter/translator.Currently she is the Cuidate! Project Coordinator for CCJ where she is responsible for coordinating the delivery of HIV & Adolescent Teen Pregnancy Prevention Education and programs to Latino youth between the ages of 13 to 18 years old.In addition, Marti is presently pursuing a Masters in Bilingual Education at Boise State University.</p>				
-                <!--<a href="#" class="link"><span><span>Read More</span></span></a>-->
-                <div class="clear"></div>
-              </div>
-              <div class="block-2">
-                				 				<br/><h6>Noemi Padilla</h6>                <p>Noemi Padilla is a 2011 High School Graduate from Meridian Academy High School with above a 3.00 GPA.  She is 19 years old and is originally from Puerto Vallarta, Mexico, and residing in Boise, Idaho. Miss Padilla is a young bilingual Latina, who is currently an Administrative Assistant for the Center of Community and Justice.  Her long-term goals are to continue her education and become an Oncologist</p>				<img src="images/noemi.png" class="pic-indent" alt="" />				<p>As an Administrative Assistant her major duties include providing office and administrative support including, proper handling of incoming/outgoing correspondence; data entry, filing, incoming/outgoing telephone calls, scheduling meetings, arranging travel, general office duties; and responding to inquiries regarding all CCJ projects, and the other services provided by the organization.She recently completed training to become a Cuidate! Facilitator in order to help other CCJ staff provide HIV and adolescent teen pregnancy prevention classes to Latino and Latina youth between the ages of 12 to 19. </p>				<br/><h6>Brenda Trejo</h6>                <p>Brenda Trejo graduated from Seattle University in 2012 with dual degrees in Cultural Anthropology and Environmental Studies with a minor in Latin American studies following the Diversity, Citizenship and Social Justice Core Track. Brenda studied abroad to Tanzania, India, New Zealand and Mexico through the International Honors Program's Rethinking Globalization: Nature, Culture and Justice. Brenda was the commencement speaker for Seattle University class of 2012. Brenda is also a Gates Millennium Scholarship recipient. </p>				<img src="images/brenda.jpg" class="pic-indent" alt="" />				<p>During her Seattle University career, Brenda volunteered at Bailey Gatzert Elementary School and also served as a Student Leader for the Common Good in the Center for Service and Community Engagement. She has served as MECHA de SU Secretary and as Seattle Us representative at the national annual Mujeres Activas en Accion y Letras conference.Brenda served as an intern for Maria Gonzalez Mabbutt and Women Voices for the Earth (WVE) in Nampa, Idaho where she headed an outreach program with the Latino/a community. Brenda was crowned Miss Cinco de Mayo 2006 in the scholarship pageant hosted by the Idaho Migrant Council.Brenda plans to pursue a Master in Public Health or Environmental Education.</p>
-              </div>
-            </div>
-          </article>
-          <article class="col-2"><!--             <h2><em>What We Do</em></h2>
-            <ul class="list list-indent">
-				<li><a href="http://comunidadyjusticia.wordpress.com/2012/06/19/the-center-for-community-and-justice-invites-latino-parents-and-their-teenagers-ages-13-to-18-years-old-to-participate-in/">Program "Take care of yourself"</a></li>-->
-             
-			  <!--
-              <li><a href="#">Aenean nonummy hendrerit mauris</a></li>
-              <li><a href="#">Phasellus porta fusce suscipit varius micum</a></li>
-              <li><a href="#">Sociis natoque penatibus et magnis</a></li>
-              <li><a href="#">Parturient montes nascetur ridiculus mus</a></li>
-              <li><a href="#">Nulla dui fusce feugiat malesuada odio</a></li>
-              <li><a href="#">Morbi nunc odio gravida atcursus nec luctus</a></li>
-              <li><a href="#">Maecenas tristique orci acsem duis</a></li>
-              <li><a href="#">Ultricies pharetra magna donec accumsan</a></li>
-              <li><a href="#">Malesuada orci donec sit amet eros</a></li>
-              <li><a href="#">Lorem ipsum dolor sit amet consectetuer</a></li>
-			  -->
-            </ul>
-            <div class="line-hor"></div>
-                       <h6>The Centro de Comunidad y Justicia (CCJ), formerly the Council on Hispanic Education is a non-profit community based organization founded in September of 1996.  </h6><p>The mission of the Centro is to improve the educational, economic, and social status of Latinos and low-income immigrants in Idaho. </p>            <p>   CCJ is a private not-for-profit corporation organized under and pursuant to the Idaho Nonprofit Corporation Act, Chapter 3, Title 30, Idaho code.  The organization is exempt under section 501 (c) (3) of the Internal Revenue Code.</p>            <p>The primary focus of our work is targeted towards local Idaho communities with high concentrations of low income Latino families in need of health, education, and immigration related services.  </p>the Council on Hispanic Education is a community based organization founded in 1996. </p>
-         <!--   <a href="#" class="link"><span><span>Read More</span></span></a>-->
-            <div class="clear"></div>
-          </article>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- footer -->
-  <footer>
-    <div class="inner">
-      <div class="wrapper"><!--
-        <ul>
-          <li><a href="#"><img src="images/icon-1.gif" alt="" /></a></li>
-          <li><a href="#"><img src="images/icon-2.gif" alt="" /></a></li>
-          <li><a href="#"><img src="images/icon-3.gif" alt="" /></a></li>
-        </ul>-->
-        <p><a href="http://free-tech-solutions.com">Powered by FreeTech Solutions &copy; 2012 </a><br>
-        </p>
-      </div>
-    </div>
-  </footer>
-</div>
-<script type="text/javascript"> Cufon.now(); </script>
-</body>
-</html>

@@ -1,145 +1,0 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Centro de Comuinidad y Justicia</title><meta NAME="author" CONTENT="FreeTech Solutions LLC">     <meta NAME="description" CONTENT="Centro de Comunidad y Justicia Center of Community and Justice">     <meta NAME="keywords" CONTENT="aids, ccjidaho, center of community and justice, centro de comunidad y justicia, centro de justicia, clinic, boise clinic, boise, idaho, deportation idaho, deportacion idaho, dream act, dream, hiv, immigration, immigration boise, justicia boise, justicia idaho, sam byrd">
-<meta charset="utf-8">
-<link href="css/reset.css" rel="stylesheet" type="text/css" />
-<link href="css/layout.css" rel="stylesheet" type="text/css" />
-<link href="css/style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/Swis721_BT_400.font.js"></script>
-<script type="text/javascript" src="js/Swis721_Th_BT_400.font.js"></script>
-<script type="text/javascript" src="js/cufon-replace.js"></script>
-<script type="text/javascript" src="js/flashobject.js"></script><script type="text/javascript" src="js/swfobject.js"></script> <script type="text/javascript">    if (swfobject.hasFlashPlayerVersion("6.0.0")) {      var fn = function() {        var att = { data:"flash/menu_v8.swf", width:"990", height:"148" };        var par = { flashvars:"button=1" };        var id = "mymovie";        var myObject = swfobject.createSWF(att, par, id);      };      swfobject.addDomLoadEvent(fn);    }	    if (swfobject.hasFlashPlayerVersion("6.0.0")) {      var fn2 = function() {        var att2 = { data:"flash/header1_v8.swf", width:"982", height:"373" };        var par2 = { flashvars:"button=1" };        var id2 = "mymovie2";        var myObject2 = swfobject.createSWF(att2, par2, id2);      };      swfobject.addDomLoadEvent(fn2);    }			    </script>
-<!--[if lt IE 7]>
-     <script type="text/javascript" src="js/ie_png.js"></script>
-     <script type="text/javascript">
-     ie_png.fix('.png, #pic li a');
-     </script>
-     <link href="css/ie/ie6.css" rel="stylesheet" type="text/css" />
-   <![endif]-->
-<!--[if IE]>
-      <script type="text/javascript" src="js/html5.js"></script>
-   <![endif]-->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32905315-1']);
-  _gaq.push(['_setDomainName', 'comunidadyjusticia.org']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>   
-</head>
-<body id="page1">
-<div id="main">
-  <!-- header -->
-  <header>
-    <div id="menu">
-      <div class="aligncenter"> 	  <!--	    <a href="http://www.adobe.com/go/EN_US-H-GET-FLASH">		  <img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" />		</a> 		-->	  </div>
-    </div><div id="mymovie"><a class="logoccj" href="http://ccjidaho.org"><img src="images/logo.gif" width="350" height="57" align="right"  ></a> <nav>      <ul>        <li class="first act"><a href="index.html"><strong>home</strong></a></li>        <li><a href="index-1.html">about us</a></li>        <li><a href="index-2.html">our goals</a></li>        <li><a href="index-3.html">initiatives</a></li>        <li><a href="blog">our blog</a></li>        <li><a href="index-5.html">get involved</a></li>        <li class="last"><a href="index-6.html"><b>contact us</b></a></li>      </ul>    </nav>	</div>	<!--<ul id="pic">      <li class="act"><a href="#"></a></li>      <li><a href="#"></a></li>      <li><a href="#"></a></li>      <li><a href="#"></a></li>    </ul>    <div id="slogan"><img src="images/slogan.gif" alt="" /><a href="#">take action</a></div>	</div>
-    -->	<div id="flash">
-      <div class="aligncenter"> 	    <!--		<a href="http://www.adobe.com/go/EN_US-H-GET-FLASH"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" />		</a>        -->			  </div>
-    </div>	<div id="mymovie2"></div>		<!-- GC:
-    <script type="text/javascript">
-   var fo = new FlashObject("flash/header1_v8.swf", "mymovie", "982", "373", "7", "#000");
-   fo.addParam("quality", "high");
-   fo.addParam("wmode", "transparent");
-   fo.write("flash");
-</script>-->
-  </header>  <!-- content -->  <section id="content">
-    <div id="indent"><!--
-      <div class="banners">
-        <div id="flashcontent">
-          <div class="aligncenter"> <a href="http://www.adobe.com/go/EN_US-H-GET-FLASH"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="" /></a> </div>
-        </div>
-        <script type="text/javascript">
-   var fo = new FlashObject("flash/header2_v8.swf", "mymovie", "984", "172", "7", "#000");
-   fo.addParam("quality", "high");
-   fo.addParam("wmode", "transparent");
-   fo.write("flashcontent");
-</script>
-      </div>-->	</a>
-      <div class="line-ver">
-        <div class="wrapper">
-          <article class="col-1">		  <a class="logofb" href="https://www.facebook.com/pages/Centro-de-Comunidad-y-Justicia/191689067561758"><img src="images/facebook_icon.gif" width="50" height="51" align="right"  ></a>			<br />
-            <h2>MISSION & PURPOSE</h2>
-            <h6>The Centro de Comunidad y Justicia (CCJ), formerly the Council on Hispanic Education is a non-profit community based organization founded in September of 1996.  </h6>
-<p>The mission of the Centro is to improve the educational, economic, and social status of Latinos and low-income immigrants in Idaho. </p>
-            <p>   CCJ is a private not-for-profit corporation organized under and pursuant to the Idaho Nonprofit Corporation Act, Chapter 3, Title 30, Idaho code.  The organization is exempt under section 501 (c) (3) of the Internal Revenue Code.</p>            <p>The primary focus of our work is targeted towards local Idaho communities with high concentrations of low income Latino families in need of health, education, and immigration related services.  </p>
-            <!--<a href="#" class="link link-indent"><span><span>Read More</span></span></a>-->
-            <div class="clear"></div>
-            <div class="line-hor"></div>
-            <div class="wrapper">
-              <div class="block-1"><!-- 
-                <h2>Other Ways to Donate...</h2>
-                <ul class="list-1">
-				
-                  <li><a href="#">$150 could pay a volunteer for a class of immigration rights to teenageres</a></li>
-                  <li><a href="#">$10 could pay for 5 brochures on HIV prevention</a></li>
-                  <li><a href="#">Find out other ways to donate, for what programs and how this really makes a difference.’</a></li>
-				  <li>Call us at +(208)378-1368</li>
-                </ul>-->
-              </div>
-              <div class="block-2">
-                <h2><em>How We Help</em></h2>
-                <ul class="list">
-                  <!--<li><a href="#">Educational Equity Community-based </a></li>
-                  <li><a href="#">Health Education and Research</a></li>-->
-                  <li><a href="educ.html">Educational Equity</a></li>                  <li><a href="community.html">Community-based Health Education & Research</a></li>                  <li><a href="immi.html">Immigrant Rights</a></li>                  <li><a href="soci.html">and Social Justice</a></li>				  
-                </ul>
-              </div>
-            </div>
-          </article>
-          <article class="col-2">
-            <h2><i>Featured Programs</i></h2>
-            <ul class="list-2">
-			    <li> <img src="images/1page-img2.jpg" alt="" /> <strong><a href="page8.html">Program Cuidate</a></strong>                <p>A culturally based program to reduce unplanned pregnancy and the risk of developing sexually transmitted infections including HIV among Latino youth.</p>
-                <!--<b><a href="#">Read More</a></b> </li>-->
-            </ul>
-            <a href="page8.html" class="link link-indent"><span><span>all programs</span></span></a>
-            <div class="clear"></div>
-            <div class="line-hor"></div>                                    <h2><i>Featured Programs</i></h2>            <ul class="list-2">			    <li> <img src="images/1page-img2.jpg" alt="" /> <strong><a href="page8.html">Program Cuidate</a></strong>                <p>A culturally based program to reduce unplanned pregnancy and the risk of developing sexually transmitted infections including HIV among Latino youth.</p>                <!--<b><a href="#">Read More</a></b> </li>-->            </ul>            <a href="page8.html" class="link link-indent"><span><span>all programs</span></span></a>            <div class="clear"></div>
-<!--
-   
-            <form action="" id="subscribe-form">
-              <div class="wrapper">
-                <h2>Newsletter</h2>
-                <label>
-                  <input type="email"  value="Enter Email" onBlur="if(this.value=='') this.value='Enter Email'" onFocus="if(this.value =='Enter Email' ) this.value=''" />
-                </label>
-                <a href="#" onClick="document.getElementById('subscribe-form').submit()">sign up</a> </div>
-            </form>
--->
-          </article>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- footer -->
-  <footer>
-    <div class="inner">
-      <div class="wrapper">
-	  <!--
-        <ul>
-          <li><a href="#"><img src="images/icon-1.gif" alt="" /></a></li>
-          <li><a href="#"><img src="images/icon-2.gif" alt="" /></a></li>
-          <li><a href="#"><img src="images/icon-3.gif" alt="" /></a></li>
-        </ul>
-		-->
-        <p><a href="http://free-tech-solutions.com">Powered by FreeTech Solutions &copy; 2012 </a><br>
-          <!-- {%FOOTER_LINK} -->
-        </p>
-      </div>
-    </div>
-  </footer>
-</div>
-<script type="text/javascript"> Cufon.now(); </script>
-</body>
-</html>
