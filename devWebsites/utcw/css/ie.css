@@ -1,0 +1,6 @@
+#confirm input {line-height:30px;}
+
+.button, .block-1 {
+	behavior: url('js/PIE.htc');
+	position:relative;
+}
