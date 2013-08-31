@@ -843,3 +843,6 @@ Binding(ALT+SHIFT+X R,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2013-08-31 08:51:22.993
+!MESSAGE Invalid preference category path: org.eclipse.ptp.ui.preferences.ptpPreferencesPage (bundle: org.eclipse.ptp.gem, page: org.eclipse.ptp.gem.preferences.GemPreferences)
