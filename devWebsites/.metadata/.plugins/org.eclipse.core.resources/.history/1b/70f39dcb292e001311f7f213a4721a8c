@@ -152,22 +152,101 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 									<div id="next" class="button">next</div>
 								</div>
 								<div id="slideshow" class="ident-bot-27">
-								<div class="grid_3 omega">
-									<img src="images/fullsw.png" width="696" height="514" alt="Ultra Touch Car Wash" >											
+									<div>
+										<div class="wrapper ident-bot-24">
+											
+											<div class="grid_3 omega">
+												<a href="images/image-blank.png" data-gal="prettyPhoto[pp_gal_2]" class="lightbox-image ident-bot-10"><img class="img-border" src="images/6page_img3.jpg" alt="" width="208" height="234"></a>
+												<p class="ident-bot-6"><strong><a href="#">Product name #3</a></strong></p>
+												<p class="ident-bot-23">Incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+												<div class="wrapper">
+													<div class="price ident-top-2 fl-l">$ 67.00</div>
+													<a class="button fl-r" href="#">add to cart</a>
+												</div>
+											</div>
+										</div>
+										
+										<div class="wrapper">
+										
+											<div class="grid_3 omega">
+												<a href="images/image-blank.png" data-gal="prettyPhoto[pp_gal_2]" class="lightbox-image ident-bot-10"><img class="img-border" src="images/6page_img6.jpg" alt="" width="208" height="234"></a>
+												<p class="ident-bot-6"><strong><a href="#">Product name #6</a></strong></p>
+												<p class="ident-bot-23">Incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+												<div class="wrapper">
+													<div class="price ident-top-2 fl-l">$ 67.00</div>
+													<a class="button fl-r" href="#">add to cart</a>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+									<div>
+										<div class="wrapper ident-bot-24">
+											
+											<div class="grid_3 omega">
+												<a href="images/image-blank.png" data-gal="prettyPhoto[pp_gal_3]" class="lightbox-image ident-bot-10"><img class="img-border" src="images/6page_img4.jpg" alt="" width="208" height="234"></a>
+												<p class="ident-bot-6"><strong><a href="#">Product name #9</a></strong></p>
+												<p class="ident-bot-23">Incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+												<div class="wrapper">
+													<div class="price ident-top-2 fl-l">$ 67.00</div>
+													<a class="button fl-r" href="#">add to cart</a>
+												</div>
+											</div>
+										</div>
+										
+										<div class="wrapper">
+											
+											<div class="grid_3 omega">
+												<a href="images/image-blank.png" data-gal="prettyPhoto[pp_gal_3]" class="lightbox-image ident-bot-10"><img class="img-border" src="images/6page_img1.jpg" alt="" width="208" height="234"></a>
+												<p class="ident-bot-6"><strong><a href="#">Product name #12</a></strong></p>
+												<p class="ident-bot-23">Incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+												<div class="wrapper">
+													<div class="price ident-top-2 fl-l">$ 67.00</div>
+													<a class="button fl-r" href="#">add to cart</a>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+									<div>
+										<div class="wrapper ident-bot-24">
+											
+											<div class="grid_3 omega">
+												<a href="images/image-blank.png" data-gal="prettyPhoto[pp_gal_4]" class="lightbox-image ident-bot-10"><img class="img-border" src="images/6page_img6.jpg" alt="" width="208" height="234"></a>
+												<p class="ident-bot-6"><strong><a href="#">Product name #15</a></strong></p>
+												<p class="ident-bot-23">Incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+												<div class="wrapper">
+													<div class="price ident-top-2 fl-l">$ 67.00</div>
+													<a class="button fl-r" href="#">add to cart</a>
+												</div>
+											</div>
+										</div>
+										
+										<div class="wrapper">
+											
+											<div class="grid_3 omega">
+												<a href="images/image-blank.png" data-gal="prettyPhoto[pp_gal_4]" class="lightbox-image ident-bot-10"><img class="img-border" src="images/6page_img3.jpg" alt="" width="208" height="234"></a>
+												<p class="ident-bot-6"><strong><a href="#">Product name #18</a></strong></p>
+												<p class="ident-bot-23">Incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+												<div class="wrapper">
+													<div class="price ident-top-2 fl-l">$ 67.00</div>
+													<a class="button fl-r" href="#">add to cart</a>
+												</div>
+											</div>
+										</div>
+									</div>
 								</div>
-								<div class="grid_3 omega">
-									<img src="images/fullsw2.png" width="696" height="514" alt="Ultra Touch Car Wash" >											
-								</div>							
+								
+								
 							</div><!-- end slider -->
 						</div>
 					</div>
 				</div>
 			</section><!-- end content -->
-
+		
 			<!-- footer -->
 			<footer>
-				<div class="policy">Ultra Touch Car Wash &copy; 2012 <a href="index-7.html">Privacy Policy</a>
-				Powered by <a href="http://modeprod.com">Mode Productions  </a> &<a href="http://free-tech-solutions.com">FreeTech Solutions</a></div>
+				<div class="policy">Car wash &copy; 2012 <a href="index-7.html">Privacy Policy</a></div>
 			</footer><!-- end footer -->
 		</div>
 	</div>

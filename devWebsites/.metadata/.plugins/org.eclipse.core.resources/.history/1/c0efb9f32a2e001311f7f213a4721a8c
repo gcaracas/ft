@@ -152,22 +152,31 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 									<div id="next" class="button">next</div>
 								</div>
 								<div id="slideshow" class="ident-bot-27">
-								<div class="grid_3 omega">
-									<img src="images/fullsw.png" width="696" height="514" alt="Ultra Touch Car Wash" >											
-								</div>
-								<div class="grid_3 omega">
-									<img src="images/fullsw2.png" width="696" height="514" alt="Ultra Touch Car Wash" >											
-								</div>							
+									<div>
+										<div class="wrapper ident-bot-24">										
+											<div class="grid_3 omega">
+												<img src="images/fullsw.png" width="696" height="514" alt="Ultra Touch Car Wash" >											
+											</div>
+										</div>								
+									</div>									
+									<div>
+										<div class="wrapper ident-bot-24">										
+											<div class="grid_3 omega">
+												<img src="images/fullsw2.png" width="696" height="514" alt="Ultra Touch Car Wash" >												
+											</div>
+										</div>									
+										</div>
+									</div>
+								</div>								
 							</div><!-- end slider -->
 						</div>
 					</div>
 				</div>
 			</section><!-- end content -->
-
+		
 			<!-- footer -->
 			<footer>
-				<div class="policy">Ultra Touch Car Wash &copy; 2012 <a href="index-7.html">Privacy Policy</a>
-				Powered by <a href="http://modeprod.com">Mode Productions  </a> &<a href="http://free-tech-solutions.com">FreeTech Solutions</a></div>
+				<div class="policy">Car wash &copy; 2012 <a href="index-7.html">Privacy Policy</a></div>
 			</footer><!-- end footer -->
 		</div>
 	</div>

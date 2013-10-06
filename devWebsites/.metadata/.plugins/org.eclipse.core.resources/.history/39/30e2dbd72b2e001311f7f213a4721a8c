@@ -194,7 +194,11 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 						
 						<div class="grid_4">
 							<h2 class="ident-bot-9">Specials!</h2>
-
+							<div class="ident-bot-10">
+								<p class="ident-bot-4"><span class="dates">Season Pass Sale!</span></p>
+								<p><a href="promomarch.html" class="link-1">Click Here!</a></p>
+								<p>Receive a GAS CARD up to $150.00!! <a class="link-2" href="promomarch.html">[more]</a></p>
+							</div>
 							<div class="ident-bot-10">
 								<p class="ident-bot-4"><span class="dates">CAR WASH</span></p>
 								<p><a href="index-3.html" class="link-1">Save $1.00 Off</a></p>

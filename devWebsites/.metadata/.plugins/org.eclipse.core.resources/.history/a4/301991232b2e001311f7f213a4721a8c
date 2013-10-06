@@ -163,11 +163,10 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 					</div>
 				</div>
 			</section><!-- end content -->
-
+		
 			<!-- footer -->
 			<footer>
-				<div class="policy">Ultra Touch Car Wash &copy; 2012 <a href="index-7.html">Privacy Policy</a>
-				Powered by <a href="http://modeprod.com">Mode Productions  </a> &<a href="http://free-tech-solutions.com">FreeTech Solutions</a></div>
+				<div class="policy">Car wash &copy; 2012 <a href="index-7.html">Privacy Policy</a></div>
 			</footer><!-- end footer -->
 		</div>
 	</div>
